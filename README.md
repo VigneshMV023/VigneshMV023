@@ -10,7 +10,7 @@
                     LinkedIn:www.linkedin.com/in/vignesh-m-023-mv
                     Contact:9791431394
 
-⚡ Fun fact: [something interesting about you, such as a hobby or a personal achievement].
+⚡ Fun fact:The Power of Collaboration: GitHub enables massive collaboration across the globe. For instance, the Linux kernel, one of the largest and most complex open-source projects, is hosted on GitHub and managed by thousands of contributors.
 
 <!---
 VigneshMV023/VigneshMV023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
